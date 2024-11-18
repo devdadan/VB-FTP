@@ -1,0 +1,12 @@
+===============LOG-FTP===========
+F05R == The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+F068 == The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+F0C4 == The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+F0M0 == The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+F14R == The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+F1M8 == The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+F1T5 == The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+F1VO == The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+F279 == The remote server returned an error: (500) Syntax error, command unrecognized.
+F287 == The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+F05R == The remote server returned an error: (550) File unavailable (e.g., file not found, no access).

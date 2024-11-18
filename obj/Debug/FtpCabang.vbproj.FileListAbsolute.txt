@@ -1,0 +1,14 @@
+D:\PROGRAM VB\SourceCOde\FtpCabang\obj\Debug\FtpCabang.Form1.resources
+D:\PROGRAM VB\SourceCOde\FtpCabang\obj\Debug\FtpCabang.Form2.resources
+D:\PROGRAM VB\SourceCOde\FtpCabang\obj\Debug\FtpCabang.Resources.resources
+D:\PROGRAM VB\SourceCOde\FtpCabang\obj\Debug\FtpCabang.vbproj.GenerateResource.cache
+D:\PROGRAM VB\SourceCOde\FtpCabang\obj\Debug\FtpCabang.vbproj.CoreCompileInputs.cache
+D:\PROGRAM VB\SourceCOde\FtpCabang\bin\Debug\FtpCabang.exe
+D:\PROGRAM VB\SourceCOde\FtpCabang\bin\Debug\FtpCabang.pdb
+D:\PROGRAM VB\SourceCOde\FtpCabang\bin\Debug\FtpCabang.xml
+D:\PROGRAM VB\SourceCOde\FtpCabang\bin\Debug\MySql.Data.dll
+D:\PROGRAM VB\SourceCOde\FtpCabang\obj\Debug\FtpCabang.vbproj.CopyComplete
+D:\PROGRAM VB\SourceCOde\FtpCabang\obj\Debug\FtpCabang.exe
+D:\PROGRAM VB\SourceCOde\FtpCabang\obj\Debug\FtpCabang.xml
+D:\PROGRAM VB\SourceCOde\FtpCabang\obj\Debug\FtpCabang.pdb
+D:\PROGRAM VB\SourceCOde\FtpCabang\obj\Debug\FtpCabang.vbproj.AssemblyReference.cache
